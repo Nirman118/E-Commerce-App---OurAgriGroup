@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "512558993337",
+    "project_id": "ouragri-304ac",
+    "storage_bucket": "ouragri-304ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512558993337:android:0dfb7ac69df9109d973068",
+        "android_client_info": {
+          "package_name": "com.ecomwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512558993337-vjmcmk41gk1d0q1mdoovsnvn4l2p4b05.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ecomwork",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "512558993337-qc8f2bu6iiuacg6ga1edi902ttpqkb5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi5lJVVGb_JsLaIP3hCVViJgWWrm6dweE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512558993337-qc8f2bu6iiuacg6ga1edi902ttpqkb5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

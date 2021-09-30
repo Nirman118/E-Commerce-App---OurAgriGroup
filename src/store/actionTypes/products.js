@@ -1,0 +1,8 @@
+export const CATEGORY_LIST = 'CATEGORY_LIST'
+export const CATEGORY_INFO = 'CATEGORY_INFO'
+export const PRODUCT_LIST = ' PRODUCT_LIST'
+export const PRODUCT_REVIEW = 'PRODUCT_REVIEW'
+export const SUB_CATEGORY_LIST = 'SUB_CATEGORY_LIST '
+export const BRAND_LIST = 'BRAND_LIST'
+export const MY_ORDERS = 'MY_ORDERS'
+export const CLEAR_CART = 'CLEAR_CART'
